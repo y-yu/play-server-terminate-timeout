@@ -17,3 +17,8 @@ Play server terminate-timeout
 5. Kill the server: `kill <<(2) process number>>`
 
 See also [`application.conf`](https://github.com/y-yu/play-server-terminate-timeout/blob/master/conf/application.conf).
+
+## Example movies
+
+- [Set `service-unbind.timeout`](https://y-yu.github.io/play-server-terminate-timeout/service-unbind_set.mov)
+- [Not set `service-unbind.timeout`](https://y-yu.github.io/play-server-terminate-timeout/not_service-unbind_set.mov)
