@@ -20,5 +20,5 @@ See also [`application.conf`](https://github.com/y-yu/play-server-terminate-time
 
 ## Example movies
 
-- [Set `service-unbind.timeout`](https://y-yu.github.io/play-server-terminate-timeout/service-unbind_set.mov)
+- [Set `service-unbind.timeout = 10 seconds`](https://y-yu.github.io/play-server-terminate-timeout/service-unbind_set.mov)
 - [Not set `service-unbind.timeout`](https://y-yu.github.io/play-server-terminate-timeout/not_service-unbind_set.mov)
